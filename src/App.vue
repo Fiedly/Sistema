@@ -15,7 +15,7 @@
             <v-list-tile slot="activator">
               <v-list-tile-content>
                 <v-list-tile-title>
-                  Almacén
+                  Almacén2
                 </v-list-tile-title>
               </v-list-tile-content>
             </v-list-tile>
